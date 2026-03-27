@@ -1,6 +1,6 @@
 [package]
 name = "intercom"
-description = "Establish a duplex audio link with another computer on the local network."
+description = "Establish a duplex audio link with another computer on the local network"
 version = "0.1.0"
 edition = "2024"
 
